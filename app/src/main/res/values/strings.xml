@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="epam">Hello EPAM!</string>
+</resources>
